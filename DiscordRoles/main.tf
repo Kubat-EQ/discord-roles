@@ -52,9 +52,6 @@ locals {
     }
 }
 
-provider discord {
-    token = "NjgyMTAyNTI4MDc4NTEyMTgx.XlYHew.Y31urA8MXyuFt_-PsXkqkBwli9w"
-}
 data discord_color blue {
     hex = "#4287f5"
 }
