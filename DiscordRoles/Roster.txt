@@ -1,0 +1,152 @@
+Drake#1606==Bard
+Drake#1606==Beastlord
+Amdo#6652==Monk
+Amdo#6652==Shaman
+Arntor#9231==Beastlord
+Aaroneous#8691==Warrior
+Aaroneous#8691==Bard
+ATHL33T#3920==Wizard
+Brandon#5061==Enchanter
+Brandon#5061==Druid
+Darkwilly#3586==Bard
+Darkwilly#3586==Paladin
+Blixi#3412==Bard
+Boltaron#1344==Shadow Knight
+Nihlus#6061==Ranger
+Nihlus#6061==Magician
+Brady#1051==Monk
+Brady#1051==Cleric
+Castiel#2867==Cleric
+Skippykc#4660==Magician
+Skippykc#4660==Shaman
+Merieke#0782==Paladin
+Czaroc#9385==Wizard
+Demetrium#7573==Shaman
+Dish#6688==Druid
+Drewon-Blesscle#6284==Ranger
+Drewon-Blesscle#6284==Cleric
+Drexel#8790==Shadow Knight
+Duren#2705==Paladin
+Ehffx#4821==Warrior
+Esote#4863==Bard
+Ezen#8957==Ranger
+Falstaff#7647==Paladin
+Falstaff#7647==Druid
+Fenom#6175==Shaman
+Fluxx#8897==Monk
+Fluxx#8897==Shaman
+Tulerezzer AKA Fujimoto#8431==Berserker
+KFury333#3582==Warrior
+Glowerss#9472==Shadow Knight
+Glowerss#9472==Berserker
+Gultan#5571==Necromancer
+Anoose#1411==Necromancer
+Anoose#1411==Druid
+Sheave#0592==Monk
+Ishbu#3930==Magician
+hayama987#1752==Bard
+hayama987#1752==Shaman
+italica#2066==Wizard
+Jackdeth#9853==Shaman
+Jaroz#6692==Monk
+Jaroz#6692==Shaman
+Reign#6745==Warrior
+Kaylaanie#8799==Magician
+Kerafyrm#0654==Shadow Knight
+Khalista#4236==Beastlord
+Khalista#4236==Monk
+Splatt#7019==Shaman
+Splatt#7019==Necromancer
+Kioe7001#7843==Ranger
+Kioe7001#7843==Shaman
+Cheezy5000#6050==Ranger
+Cheezy5000#6050==Shaman
+Kismet#5893==Warrior
+Kismet#5893==Bard
+Splitkick#4009==Ranger
+Splitkick#4009==Warrior
+Bazzka#9447==Monk
+Bazzka#9447==Shaman
+Kravix (Pinoli)#0083==Cleric
+Kravix (Pinoli)#0083==Warrior
+exiled#8927==Warrior
+exiled#8927==Shaman
+Kubat#7046==Beastlord
+Kubat#7046==Rogue
+Akanon#2207==Shadow Knight
+Linasu#1490==Enchanter
+Linasu#1490==Cleric
+Lorinser#0837==Ranger
+Lugolai#2768==Berserker
+Lugolai#2768==Shaman
+Luke (PCack)#9463==Cleric
+Utzenhiza#2417==Rogue
+Utzenhiza#2417==Druid
+OneCrazyMarine#7849==Monk
+Muggs#6850==Paladin
+Nananea#0761==Magician
+IcebergDX#7488==Druid
+IcebergDX#7488==Beastlord
+swarley#6277==Shadow Knight
+Anconite#8168==Shaman
+Baconomicus#5491==Wizard
+OliverCromwell#6897==Cleric
+OliverCromwell#6897==Ranger
+Treijhen#2830==Berserker
+robjd2#7074==Rogue
+Pimento#0023==Cleric
+Pimento#0023==Rogue
+Ozzy#1252==Necromancer
+donkusai#6462==Bard
+Sabbat#4613==Berserker
+Sabbat#4613==Bard
+Remien#9322==Beastlord
+Remien#9322==Bard
+Volts (Renshu)#8710==Warrior
+Volts (Renshu)#8710==Druid
+Reo#8608==Rogue
+James54#5940==Shadow Knight
+James54#5940==Bard
+justbutler#8150==Bard
+FutaFish#3673==Cleric
+Rubiredd#3026==Cleric
+Ruzzin#4909==Shaman
+Camden#8857==Shadow Knight
+Sazz#9632==Shadow Knight
+Senadin#0849==Monk
+S K O#4684==Monk
+bigdizz0#0250==Paladin
+CSProphet#7440==Monk
+CSProphet#7440==Cleric
+Steelstep#2674==Bard
+Nemophobia#9213==Bard
+Nemophobia#9213==Shaman
+Test#343242==
+ArchCN#3668==Warrior
+ArchCN#3668==Cleric
+Thwu(Pretlaw)#2273==Warrior
+Tiberous#5179==Beastlord
+Tiberous#5179==Paladin
+Tomias#6302==Enchanter
+Trainz#7838==Monk
+Trainz#7838==Monk
+Trebla#0293==Bard
+Tylerdurden#8317==Warrior
+Tylerdurden#8317==Cleric
+Vaizon#0685==Magician
+Mirkava#1516==Rogue
+Mirkava#1516==Cleric
+pippir#8185==Magician
+pippir#8185==Shaman
+Powerhouse#7322==Shadow Knight
+Powerhouse#7322==Bard
+Grumpus#0765==Berserker
+Wyora#4717==Enchanter
+Wyora#4717==Shaman
+Xendu#0210==Shadow Knight
+Samwise#4909==Warrior
+YasixD#8386==Berserker
+YasixD#8386==Bard
+Realistever#2493==Paladin
+Realistever#2493==Bard
+Wolger#1284==Necromancer
